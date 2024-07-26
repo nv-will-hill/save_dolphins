@@ -7,11 +7,11 @@ https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch
 ### progress
 
 ##### compile / optimize
-* [ ] Circularnet --> ONNX
 * [X] TensorFlow --> ONNX
 * [X] ONNX --> Nsight DL Designer
 * [X] Nsight DL DesignerLD (DLD) --> TensorRT
 * [ ] TensorFlow --> ONNX --> TensorRT
+* [ ] Circularnet --> ONNX
 * [ ] Circularnet (TF) --> ONNX --> TensorRT
 * [ ] Circularnet (TF) --> ONNX --> (DLD) --> TensorRT
 
@@ -28,11 +28,11 @@ https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch
 | task                                                     | status  |
 | --------                                                 | ------- |
 | TF** --> ONNX                                            |  [X]    |
-| CrcNet*  --> ONNX                                        |  [ ]    |
 | ONNX --> DLD***                                          |  [X]    |
 | DLD --> TRT****                                          |  [X]    |
 | TRT --> Infer                                            |  [X]    |
 | TensorFlow --> ONNX --> TensorRT                         |  [ ]    |
+| CrcNet*  --> ONNX                                        |  [ ]    |
 | TensorFlow --> ONNX --> TensorRT --> Infer               |  [ ]    |
 | TRT --> Jetson                                           |  [ ]    |
 | Jetson (Sim) --> Infer                                   |  [ ]    |
