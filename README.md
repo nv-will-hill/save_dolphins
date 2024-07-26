@@ -21,17 +21,18 @@
 ---
 
 ##### Table
-| task                   | status  |
-| --------               | ------- |
-| TF** --> ONNX          |  [ ]    |
-| CrcNet*  --> ONNX      |  [ ]    |
-| ONNX --> DLD***        |  [X]    |
-| DLD --> TRT****        |  [X]    |
-| TRT --> Infer          |  [X]    |
-| TRT --> Jetson         |  [ ]    |
-| Jetson (Sim) --> Infer |  [ ]    |
-| Jetson --> Infer       |  [ ]    |
-| Jetson --> Infer (LA)  |  [ ]    |
+| task                               | status  |
+| --------                           | ------- |
+| TF** --> ONNX                      |  [X]    |
+| CrcNet*  --> ONNX                  |  [ ]    |
+| TensorFlow --> ONNX --> TensorRT   |  [ ]    |
+| ONNX --> DLD***                    |  [X]    |
+| DLD --> TRT****                    |  [X]    |
+| TRT --> Infer                      |  [X]    |
+| TRT --> Jetson                     |  [ ]    |
+| Jetson (Sim) --> Infer             |  [ ]    |
+| Jetson --> Infer                   |  [ ]    |
+| Jetson --> Infer (LA)              |  [ ]    |
 
 
 
