@@ -6,7 +6,10 @@
 * [ ] Circularnet --> ONNX
 * [X] TensorFlow --> ONNX
 * [X] ONNX --> Nsight DL Designer
-* [X] Nsight DL DesignerLD --> TensorRT
+* [X] Nsight DL DesignerLD (DLD) --> TensorRT
+* [ ] TensorFlow --> ONNX --> TensorRT
+* [ ] Circularnet (TF) --> ONNX --> TensorRT
+* [ ]  Circularnet (TF) -->  ONNX --> (DLD) --> TensorRT
 
 ##### deploy
 * [X] TensorRT --> Infer
