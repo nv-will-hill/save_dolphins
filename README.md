@@ -1,4 +1,8 @@
-# save_dolphins
+# Saving Dolphins with AI Optimization
+https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch
+
+![garbage patch](Save_Dolphins.jpg)
+
 
 ### progress
 
