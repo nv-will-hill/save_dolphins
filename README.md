@@ -11,6 +11,7 @@ https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch
 * [X] ONNX --> Nsight DL Designer
 * [X] Nsight DL DesignerLD (DLD) --> TensorRT
 * [ ] TensorFlow --> ONNX --> TensorRT
+  * [EfficientNet V1 NB](https://gist.github.com/nv-will-hill/7c98fc65fd5f2b3482af75647aa4637a)
 * [ ] Circularnet --> ONNX
 * [ ] Circularnet (TF) --> ONNX --> TensorRT
 * [ ] Circularnet (TF) --> ONNX --> (DLD) --> TensorRT
