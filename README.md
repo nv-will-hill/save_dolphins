@@ -46,3 +46,16 @@ https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch
 **TensorFlow  
 ***Nsight DL Designers  
 ****TensorRT  
+
+
+
+* [ ] L_TF_ONNX
+* [ ] W_TF_ONNX
+* [ ] L_ONNX_TRT
+* [ ] W_ONNX_TRT
+* [ ] L_TF_ONNX_TRT
+* [ ] W_TF_ONNX_TRT
+* [ ] L_TRT_JET
+* [ ] W_TRT_JET
+* [ ] L_TF_ONNX_TRT_JET
+* [ ] W_TF_ONNX_TRT_JET      
